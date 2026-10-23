@@ -1,3 +1,6 @@
 [submodule "3d-chore-board"]
 	path = 3d-chore-board
 	url = https://github.com/paulbrouwersnz/3d-chore-board.git
+[submodule "3d-crown-catherine-of-aragon-six-the-musical"]
+	path = 3d-crown-catherine-of-aragon-six-the-musical
+	url = https://github.com/paulbrouwersnz/3d-crown-catherine-of-aragon-six-the-musical.git
